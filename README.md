@@ -9,7 +9,8 @@
 
 <div>
   <a href="https://github.com/ycaiooo">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=rafaballerine&show_icon=true&theme=dracula&include_all_commints=true&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icon=true&theme=dracula&include_all_commints=true&count_private=true"/>
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=168theme=dracula"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
