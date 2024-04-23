@@ -9,6 +9,7 @@
 
 <div>
   <a href="https://github.com/ycaiooo">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=rafaballerine&show_icon=true&theme=dracula&include_all_commints=true&count_private=true"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
