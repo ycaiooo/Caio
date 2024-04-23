@@ -7,7 +7,9 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vismar-flores-65b220248)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flors_vismar/)
 
-![Vismar GitHub stats](https://github.com/ycaiooo)
+<div>
+  <a href="https://github.com/ycaiooo">
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
